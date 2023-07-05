@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "2.0.0",
+  "description": "one day i will front to in the world",
+  "main": "route.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon web.js"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
